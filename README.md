@@ -1,6 +1,4 @@
-Por isto foi elaborado este material, cujo conteúdo consiste essencialmente de especificações de programas, não voltadas para nenhuma linguagem de programação em particular. Sua maior finalidade é fornecer
+ este material foi elaborado, cujo conteúdo consiste essencialmente de especificações de programas, com exemplos nas linguagens Python e Nodejs. Sua maior finalidade é fornecer
 idéias para que programadores ávidos possam programar, programar e programar, e assim se tornar cada vez melhores. Uma restrição é que a implementação de algumas das especificações será mais apropriada estando a tela
 em modo texto, o que não impede que muitas delas possam fornecer inspiração para programas em interface gráfica. A maioria das especificações propostas são voltadas para iniciantes em uma linguagem de programação, e
-estruturadas na forma que considero mais didática: no início apenas comandos de saída e instruções matemáticas
-simples, de forma a não sobrecarregar o estudante que, nesse momento, ainda está normalmente assimilando uma
-série de novas informações sobre processadores, instruções, seqüência, controle e o próprio compilador. Os capítulos seguintes gradativamente incorporam às especificações novos tópicos: variáveis, tipos de dado e entrada, decisão, repetição e 
+estruturadas na forma que considero mais didática
